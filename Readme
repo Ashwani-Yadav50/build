@@ -1,11 +1,14 @@
-# Install packages
+# Express.js Project
+
+This is a simple Express.js project.
+
+## Getting Started
+
+To get started, follow these steps:
+
+### Install Packages
+
+First, install the required npm packages:
+
+```bash
 npm install
-
-#create build
-npm run build
-
-# To run on production from dist file 
-npm start
-
-
-
