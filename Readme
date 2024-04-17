@@ -1,0 +1,11 @@
+# Install packages
+npm install
+
+#create build
+npm run build
+
+# To run on production from dist file 
+npm start
+
+
+
